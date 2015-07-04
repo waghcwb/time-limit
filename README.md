@@ -3,13 +3,13 @@ Limite o tempo em que um usuário pode ficar online no fórum, até redirecionar
 
 ## Instruções
 Adicionando o seguinte código já é o suficiente para iniciar o plugin:
-```javascript
+```js
 $.timeLimit();
 ```
 
 ## Customização
 Você pode customizar alguns elementos do plugin da seguinte forma:
-```javascript
+```js
 $.timeLimit({
     propriedade: 'valor'
 });
@@ -71,6 +71,8 @@ $.timeLimit({
 * carrot
 * alizarin
 * concrete
+
+(Veja os temas aqui: http://flatui.com/flat-ui-color-palette/)
 
 
 ---
